@@ -1,13 +1,29 @@
-<h1>Jogo do número secreto</h1>
+# Git e GitHub
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+Repositório utilizado para registrar estudos, exemplos e anotações sobre Git e GitHub.
 
-## �� Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## Fontes de estudo
 
-// Código omitido.
+https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
+
+- Documentação oficial do Git
+- Documentação oficial do GitHub
+
+## Conteúdo
+
+- Comandos básicos
+- Commit
+- Push
+- Pull
+- Amend
+- GitHub
+
+## Estrutura do projeto
+
+```text
+git-github/
+├── README.md
+├── .gitignore
+├── anotacoes/
+└── exemplos/
+```
