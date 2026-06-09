@@ -27,7 +27,6 @@ git-github/
 ├── anotacoes/
 └── exemplos/
 ```
-
 /anotacoes → material de consulta
 
-/exemplos → exemplos criados para realizar testes durante os estudos 
+/exemplos → exemplos criados para realizar testes durante os estudos
