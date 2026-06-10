@@ -29,13 +29,13 @@
 - O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos da seção. Para visualizá-lo procure por **outline** em um dos cantos superiores;
 - Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown.
 
-´´´
+```
 Exemplo:
 # Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
-´´´
+```
 
 ## Descrição do Projeto
 
@@ -69,11 +69,11 @@ Exemplo:
 - É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub;
 - Você também pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
 
-´´´
+```
 # Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
-´´´
+```
 
 ## Licença
 
